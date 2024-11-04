@@ -1,0 +1,30 @@
+{
+  "format_version": 2,
+  "header": {
+    "description": "给矿物增加了可以发光的边框",
+    "name": "矿物发光边框",
+    "uuid": "f7db928b-5739-49d5-b630-fca5681f7607",
+    "version": [
+      1,
+      20,
+      0
+    ],
+    "min_engine_version": [
+      1,
+      20,
+      0
+    ]
+  },
+  "modules": [
+    {
+      "description": "给矿物增加了可以发光的边框",
+      "type": "resources",
+      "uuid": "ebd73b5c-54e6-486e-a25c-019cc5e150cb",
+      "version": [
+        1,
+        20,
+        0
+      ]
+    }
+  ]
+}
